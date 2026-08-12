@@ -1,0 +1,3 @@
+- 一个 JSRuntime 可以拥有多个 JSContext
+- JSContext 用于执行 JavaScript 代码，并持有执行所需的上下文环境
+- 同一个 JSRuntime 不能被多个 OS thread 并发访问
