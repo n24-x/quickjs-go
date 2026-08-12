@@ -1,0 +1,4 @@
+[quickjs]
+# type = "archive"
+# format = "zip"
+download_url = "https://github.com/quickjs-ng/quickjs/releases/download/v0.16.1/quickjs-amalgam.zip"
