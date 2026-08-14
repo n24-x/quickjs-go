@@ -1,3 +1,3 @@
-module github.com/n24-x/quickjs
+module github.com/n24-x/quickjs-go
 
 go 1.25.5
